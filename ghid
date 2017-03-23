@@ -1,0 +1,56 @@
+//Hotel
+
+public class Hotel {
+
+  public String nume ;
+
+  public String Recenzii ;
+
+  private int nrStele ;
+
+    /**
+   * 
+   * @element-type Destinatii
+   */
+ 
+  public void getInfo() {
+  }
+
+  public void getRecenzii() {
+  }
+
+  public void Hotel() {
+  }
+
+}
+
+//Ghid
+
+import java.util.*;
+
+public class Ghid extends Persoana {
+
+  public int Experienta;
+
+  public int Pret;
+
+    public ArrayList  myDestinatii;
+    /**
+   * 
+   * @element-type Destinatii
+   */
+  
+
+  public void getName() {
+  }
+
+  public void getLocation() {
+  }
+
+  public void getPrice() {
+  }
+
+  public void Ghid() {
+  }
+
+}
